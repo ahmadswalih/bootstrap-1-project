@@ -3,11 +3,16 @@
 This is a Bootstrap website Created with HTML,CSS and Javascript 
 
 #Features 
--Modern UI
+-Modern UI  
+
 -Responsive 
+
 -Social Media Integration
+
 - Modern Icons 
+
 -Sticky Navbar
+
 -Single Page Website
 
 
