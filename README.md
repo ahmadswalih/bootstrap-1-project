@@ -5,15 +5,15 @@ This is a Bootstrap website Created with HTML,CSS and Javascript
 #Features 
 -Modern UI  
 
--Responsive 
+- Responsive 
 
--Social Media Integration
+- Social Media Integration
 
 - Modern Icons 
 
--Sticky Navbar
+- Sticky Navbar
 
--Single Page Website
+-S ingle Page Website
 
 
 HAVE A LOOK AT WEBSITE - https://ahmadswalih.github.io/bootstrap-1-project/
