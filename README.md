@@ -13,7 +13,7 @@ This is a Bootstrap website Created with HTML,CSS and Javascript
 
 - Sticky Navbar
 
--S ingle Page Website
+- Single Page Website
 
 
 HAVE A LOOK AT WEBSITE - https://ahmadswalih.github.io/bootstrap-1-project/
